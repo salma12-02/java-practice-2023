@@ -1,0 +1,8 @@
+public class tut1_EX4
+{
+public static void main(String[] args)
+{
+  System.out.print("*\t*\t*\t*\t*\n*\t*\t*\t*\n*\t*\t*\n*\t*\n*");
+}
+
+}
